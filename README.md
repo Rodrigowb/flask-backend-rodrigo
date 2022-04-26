@@ -27,7 +27,7 @@ DELETE | /apartments/id/id | Delete an apartment according to the id
 # Files description
 
 | File | Description |
---- | --- | ---
+--- | --- 
 db/database.py | Connect to the SQL Postgres database and create the models
 seed/seed.py | Seed the database with initial information
 server/server.py | Connect to the server using Flask and defining the API endpoints
