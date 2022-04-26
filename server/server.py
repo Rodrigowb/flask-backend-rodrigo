@@ -33,7 +33,7 @@ def id_routes(id):
     delete_apartment.execute()
     return {"Deleted": True, "Id": id}
 
+
 #------------------------------------RUN SERVER------------------------------------
-app.run(debug=True, port=3000)
-
-
+if __name__ == '__main__':
+  app.run(debug=True, port=3000)

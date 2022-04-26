@@ -19,8 +19,4 @@ class Apartments(BaseModel):
 
 # Connect to database
 db.connect()
-# # Drop the database if you run again
-# db.drop_tables([Apartments])
-# # Create the tables
-# db.create_tables([Apartments])
   
