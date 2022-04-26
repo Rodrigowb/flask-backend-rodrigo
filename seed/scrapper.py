@@ -28,7 +28,7 @@ class ZillowScraper():
       'upgrade-insecure-requests': '1',
       'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36'
     }
-    self.range = range(1, 20)
+    self.range = range(1, 2)
 
   def __fetch(self, url, params):
     """
@@ -71,6 +71,14 @@ class ZillowScraper():
       for row in self.results:
         writer.writerow(row)
 
+  def __to_json(self):
+    """
+    Convert the results array into a json file
+    """
+    with open('zillow.json', 'w') as json_file:
+      json.dump(self.results, json_file)
+
+
   def run(self):
     """
     Main file to wrap the fecth, parse and csv
@@ -83,7 +91,8 @@ class ZillowScraper():
       res = self.__fetch(ZillowScraper.URL, params)
       self.__parse(res.text)
       time.sleep(2)
-    self.__to_csv()
+    # self.__to_csv()
+    self.__to_json()
 
 if __name__ == '__main__':
   scrapper = ZillowScraper()

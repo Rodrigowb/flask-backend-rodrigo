@@ -1,5 +1,4 @@
 from peewee import *
-from playhouse.csv_loader import *
 import sys
 sys.path.insert(0, "..")
 from db.database import Apartments
@@ -27,16 +26,15 @@ class Seed:
     Apartments(latitude=20.45, longitude=10, floorSize=3000, url='https://www.zillow.com/homedetails/1933-Vyse-Ave-Bronx-NY-10460/83178654_zpid/', price=600400).save()
     return Apartments
 
-  def seed_csv(self):
-    """
-    Seed the database using a csv file
-    """
-    load_csv(Apartments, 'zillow.csv')
-
-
+  # def seed_json(self):
+  #   """
+  #   Seed the database using a csv file
+  #   """
+  #   with open('zillow.json', 'r') as json_file:
+      
 
 if __name__ == '__main__':
-  seed = Seed()
-  seed.drop_create()
-  seed.seed_csv()
+    seed = Seed()
+    seed.drop_create()
+    seed.seed_manually()
 
