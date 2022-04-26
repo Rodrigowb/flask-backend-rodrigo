@@ -13,7 +13,8 @@ Linkedin profile: <https://www.linkedin.com/in/rodrigowanderleyboaventura> <br /
 # API endpoints
 
 | Request | Endpoint |
-| GET      | /apartments/ |   
+--- | --- 
+GET | /apartments |   
 
 # About the project
 
