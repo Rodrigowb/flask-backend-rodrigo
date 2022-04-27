@@ -28,7 +28,7 @@ class ZillowScraper():
       'upgrade-insecure-requests': '1',
       'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36'
     }
-    self.range = range(1, 2)
+    self.range = range(1, 20)
 
   def __fetch(self, url, params):
     """
@@ -59,24 +59,43 @@ class ZillowScraper():
             'url': script_json['url'],
             'price': card.find('div', {'class': 'list-card-price'}).text
           })
+
+  def __transform_data(self, row):
+    """
+    Receives a row from a csv and transform the data to fit on the database model
+    """
+    row['floorSize'] = int(row['floorSize'].replace(',',""))
+    row['price'] = float((row['price'].replace('$',"")).replace(',',""))
+    return row
+
+  def __transform_list_data(self):
+    """
+    Receives a dictionary and transform the data to fit on the database model
+    """
+    for row in self.results:
+      row['floorSize'] = int(row['floorSize'].replace(',',""))
+      row['price'] = float((row['price'].replace('$',"")).replace(',',""))
+    return self.results
+
   
   def __to_csv(self):
     """
     Convert the results array into a csv file
     """
-    with open('zillow.csv', 'w') as csv_file:
+    with open('zillow_test.csv', 'w') as csv_file:
       writer = csv.DictWriter(csv_file, fieldnames=self.results[0].keys())
       writer.writeheader()
 
       for row in self.results:
-        writer.writerow(row)
+        writer.writerow(self.__transform_data(row))
 
   def __to_json(self):
     """
     Convert the results array into a json file
     """
     with open('zillow.json', 'w') as json_file:
-      json.dump(self.results, json_file)
+      self.__transform_list_data()
+      json.dump(self.results, json_file, indent=4)
 
 
   def run(self):
@@ -91,7 +110,6 @@ class ZillowScraper():
       res = self.__fetch(ZillowScraper.URL, params)
       self.__parse(res.text)
       time.sleep(2)
-    # self.__to_csv()
     self.__to_json()
 
 if __name__ == '__main__':
