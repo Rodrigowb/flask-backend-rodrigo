@@ -1,3 +1,5 @@
+# TODO: convert data to the right model formar
+# TODO: seed the db with the data retrieved from the scrapper
 from peewee import *
 import sys
 sys.path.insert(0, "..")
@@ -31,10 +33,12 @@ class Seed:
   #   Seed the database using a csv file
   #   """
   #   with open('zillow.json', 'r') as json_file:
+  #     seeding = Apartments.insert_many(json_file)
+  #     seeding.execute()
       
 
 if __name__ == '__main__':
     seed = Seed()
     seed.drop_create()
-    seed.seed_manually()
+    seed.seed_json()
 
