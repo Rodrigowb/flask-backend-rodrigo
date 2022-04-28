@@ -1,1024 +1,1024 @@
 [
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.58934,
-        "longitude": -73.92646,
-        "floorSize": 2070,
-        "url": "https://www.zillow.com/homedetails/33-Bartlett-Pl-Brooklyn-NY-11229/30793725_zpid/",
-        "price": 829000.0
-    },
-    {
-        "latitude": 40.74,
-        "longitude": -73.9982,
-        "floorSize": 900,
-        "url": "https://www.zillow.com/homedetails/161-W-16th-St-APT-18B-New-York-NY-10011/2078316053_zpid/",
-        "price": 1640000.0
-    },
-    {
-        "latitude": 40.736958,
-        "longitude": -73.97945,
-        "floorSize": 430,
-        "url": "https://www.zillow.com/homedetails/340-E-23rd-St-APT-6I-New-York-NY-10010/97501534_zpid/",
-        "price": 670000.0
-    },
-    {
-        "latitude": 40.5783,
-        "longitude": -73.9735,
-        "floorSize": 750,
-        "url": "https://www.zillow.com/homedetails/2932-W-5th-St-APT-20A-Brooklyn-NY-11224/2073344312_zpid/",
-        "price": 315000.0
-    },
-    {
-        "latitude": 40.8794,
-        "longitude": -73.9189,
-        "floorSize": 650,
-        "url": "https://www.zillow.com/homedetails/80-Knolls-Cres-APT-9F-Bronx-NY-10463/2064162193_zpid/",
-        "price": 97762.0
-    },
-    {
-        "latitude": 40.7304,
-        "longitude": -73.9819,
-        "floorSize": 527,
-        "url": "https://www.zillow.com/homedetails/425-E-13th-St-APT-4B-New-York-NY-10009/2133258797_zpid/",
-        "price": 895000.0
-    },
-    {
-        "latitude": 40.57996,
-        "longitude": -73.938286,
-        "floorSize": 2600,
-        "url": "https://www.zillow.com/homedetails/132-Oxford-St-Brooklyn-NY-11235/30791409_zpid/",
-        "price": 1599900.0
-    },
-    {
-        "latitude": 40.76896,
-        "longitude": -73.95604,
-        "floorSize": 800,
-        "url": "https://www.zillow.com/homedetails/345-E-73rd-St-APT-12G-New-York-NY-10021/244832985_zpid/",
-        "price": 795000.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    },
-    {
-        "latitude": 40.767933,
-        "longitude": -73.96096,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
-        "price": 369000.0
-    },
-    {
-        "latitude": 40.728848,
-        "longitude": -73.99952,
-        "floorSize": 400,
-        "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
-        "price": 559000.0
-    },
-    {
-        "latitude": 40.742672,
-        "longitude": -73.994896,
-        "floorSize": 3272,
-        "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
-        "price": 4595000.0
-    },
-    {
-        "latitude": 40.75568,
-        "longitude": -73.968216,
-        "floorSize": 1200,
-        "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
-        "price": 1480000.0
-    },
-    {
-        "latitude": 40.829067,
-        "longitude": -73.9494,
-        "floorSize": 1051,
-        "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
-        "price": 985000.0
-    },
-    {
-        "latitude": 40.824833,
-        "longitude": -73.94516,
-        "floorSize": 4600,
-        "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
-        "price": 2495000.0
-    },
-    {
-        "latitude": 40.781,
-        "longitude": -73.95415,
-        "floorSize": 1705,
-        "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
-        "price": 3495000.0
-    },
-    {
-        "latitude": 40.79127,
-        "longitude": -73.94867,
-        "floorSize": 885,
-        "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
-        "price": 1121590.0
-    }
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.58934,
+    "longitude": -73.92646,
+    "floorSize": 2070,
+    "url": "https://www.zillow.com/homedetails/33-Bartlett-Pl-Brooklyn-NY-11229/30793725_zpid/",
+    "price": 829000.0
+  },
+  {
+    "latitude": 40.74,
+    "longitude": -73.9982,
+    "floorSize": 900,
+    "url": "https://www.zillow.com/homedetails/161-W-16th-St-APT-18B-New-York-NY-10011/2078316053_zpid/",
+    "price": 1640000.0
+  },
+  {
+    "latitude": 40.736958,
+    "longitude": -73.97945,
+    "floorSize": 430,
+    "url": "https://www.zillow.com/homedetails/340-E-23rd-St-APT-6I-New-York-NY-10010/97501534_zpid/",
+    "price": 670000.0
+  },
+  {
+    "latitude": 40.5783,
+    "longitude": -73.9735,
+    "floorSize": 750,
+    "url": "https://www.zillow.com/homedetails/2932-W-5th-St-APT-20A-Brooklyn-NY-11224/2073344312_zpid/",
+    "price": 315000.0
+  },
+  {
+    "latitude": 40.8794,
+    "longitude": -73.9189,
+    "floorSize": 650,
+    "url": "https://www.zillow.com/homedetails/80-Knolls-Cres-APT-9F-Bronx-NY-10463/2064162193_zpid/",
+    "price": 97762.0
+  },
+  {
+    "latitude": 40.7304,
+    "longitude": -73.9819,
+    "floorSize": 527,
+    "url": "https://www.zillow.com/homedetails/425-E-13th-St-APT-4B-New-York-NY-10009/2133258797_zpid/",
+    "price": 895000.0
+  },
+  {
+    "latitude": 40.57996,
+    "longitude": -73.938286,
+    "floorSize": 2600,
+    "url": "https://www.zillow.com/homedetails/132-Oxford-St-Brooklyn-NY-11235/30791409_zpid/",
+    "price": 1599900.0
+  },
+  {
+    "latitude": 40.76896,
+    "longitude": -73.95604,
+    "floorSize": 800,
+    "url": "https://www.zillow.com/homedetails/345-E-73rd-St-APT-12G-New-York-NY-10021/244832985_zpid/",
+    "price": 795000.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  },
+  {
+    "latitude": 40.767933,
+    "longitude": -73.96096,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/208-E-70th-St-APT-5F-New-York-NY-10021/72539843_zpid/",
+    "price": 369000.0
+  },
+  {
+    "latitude": 40.728848,
+    "longitude": -73.99952,
+    "floorSize": 400,
+    "url": "https://www.zillow.com/homedetails/211-Thompson-St-APT-3N-New-York-NY-10012/94730453_zpid/",
+    "price": 559000.0
+  },
+  {
+    "latitude": 40.742672,
+    "longitude": -73.994896,
+    "floorSize": 3272,
+    "url": "https://www.zillow.com/homedetails/136-W-22nd-St-APT-3-New-York-NY-10011/61966557_zpid/",
+    "price": 4595000.0
+  },
+  {
+    "latitude": 40.75568,
+    "longitude": -73.968216,
+    "floorSize": 1200,
+    "url": "https://www.zillow.com/homedetails/251-E-51st-St-APT-5F-New-York-NY-10022/121712868_zpid/",
+    "price": 1480000.0
+  },
+  {
+    "latitude": 40.829067,
+    "longitude": -73.9494,
+    "floorSize": 1051,
+    "url": "https://www.zillow.com/homedetails/603-W-148th-St-APT-11B-New-York-NY-10031/97504646_zpid/",
+    "price": 985000.0
+  },
+  {
+    "latitude": 40.824833,
+    "longitude": -73.94516,
+    "floorSize": 4600,
+    "url": "https://www.zillow.com/homedetails/410-W-146th-St-New-York-NY-10031/31552947_zpid/",
+    "price": 2495000.0
+  },
+  {
+    "latitude": 40.781,
+    "longitude": -73.95415,
+    "floorSize": 1705,
+    "url": "https://www.zillow.com/homedetails/141-E-88th-St-APT-5H-New-York-NY-10128/122274071_zpid/",
+    "price": 3495000.0
+  },
+  {
+    "latitude": 40.79127,
+    "longitude": -73.94867,
+    "floorSize": 885,
+    "url": "https://www.zillow.com/homedetails/1399-Park-Ave-14A-New-York-NY-10029/300200293_zpid/",
+    "price": 1121590.0
+  }
 ]

@@ -1,6 +1,7 @@
 # TODO: convert data to the right model formar
 # TODO: seed the db with the data retrieved from the scrapper
 from peewee import *
+from playhouse.shortcuts import model_to_dict, dict_to_model
 import sys
 sys.path.insert(0, "..")
 from db.database import Apartments
@@ -28,13 +29,13 @@ class Seed:
     Apartments(latitude=20.45, longitude=10, floorSize=3000, url='https://www.zillow.com/homedetails/1933-Vyse-Ave-Bronx-NY-10460/83178654_zpid/', price=600400).save()
     return Apartments
 
-  # def seed_json(self):
-  #   """
-  #   Seed the database using a csv file
-  #   """
-  #   with open('zillow.json', 'r') as json_file:
-  #     seeding = Apartments.insert_many(json_file)
-  #     seeding.execute()
+  def seed_json(self):
+    """
+    Seed the database using a csv file
+    """
+    with open('zillow.json', 'r') as json_file:
+      for row in json_file:
+        
       
 
 if __name__ == '__main__':

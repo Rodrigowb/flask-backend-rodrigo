@@ -82,7 +82,7 @@ class ZillowScraper():
     """
     Convert the results array into a csv file
     """
-    with open('zillow_test.csv', 'w') as csv_file:
+    with open('zillow.csv', 'w') as csv_file:
       writer = csv.DictWriter(csv_file, fieldnames=self.results[0].keys())
       writer.writeheader()
 
